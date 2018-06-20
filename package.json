@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "let's but macbook pro",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henry Hsu",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
