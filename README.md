@@ -3,7 +3,7 @@ WaitAndGet
 
 ## Step 0
 
-- require Node v6.4.0
+- require at least Node v6.4.0 (use **node -v** to check) 
 
 ---
 ## Step 1
