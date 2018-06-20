@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 
 
 //設定倒數計時             年,(n-1)月,日,時,分
-var timeout = new Date(2018, 5, 20, 12, 0, 0).getTime() - new Date().getTime();
+var timeout = new Date(2018, 5, 21, 12, 0, 0).getTime() - new Date().getTime();
 function delay() {
     return new Promise(function (reolve) {
         setTimeout(reolve, timeout);
