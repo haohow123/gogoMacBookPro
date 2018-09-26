@@ -1,5 +1,5 @@
 # gogoMacBookPro
-WaitAndGet
+使用puppeteer搶購蝦皮GOGO
 
 ## Step 0
 
